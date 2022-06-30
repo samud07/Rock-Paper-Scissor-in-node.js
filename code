@@ -20,18 +20,17 @@
 }
 
 
-	// your code goes here
 	
 	var t;
-	scanf("%d",t);
+	promt("%d",t);
 	
 	while(t--)
 	{
 	    var n;
-	    scanf("%d",n);
+	    promt("%d",n);
 	    
 	     s[n+1];
-	    scanf("%s",s);
+	     promt("%s",s);
 	    
 	      win1 = s[0], result1[n];
 	    
